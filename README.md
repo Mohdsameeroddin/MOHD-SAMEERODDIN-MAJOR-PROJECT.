@@ -1,0 +1,2 @@
+# MOHD-SAMEERODDIN-MAJOR-PROJECT.
+Segway is a two-wheeled motorized personal vehicle consisting of a platform for the feet mounted above an axle and an upright post surmounted by handle with two guiding wheels, controlled by the rocker switches. It is often used to transport a user across mid-range distances. Segway has a more robust overall design and features a handlebar for balance which consists compressible springs. This Segway is one of several low speed transportation devices that can be used to travel on sideways, specific roadways and other sharp use paths.
